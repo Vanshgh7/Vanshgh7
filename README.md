@@ -12,9 +12,9 @@
 
 - 💬 Ask me about **MERN stack (React.js, Node.js, Express.js, MongoDB), Java, Python, C++, TensorFlow, Docker, and MySQL**
 
-- 📫 How to reach me **vansh.pipaliya.dev@gmail.com**
-
 - ⚡ Fun fact **I enjoy building things from scratch, even if I end up spending more time debugging than coding**
+
+- 📫 How to reach me **vansh.pipaliya.dev@gmail.com**
 
 - 📄 Check out my **[resume](https://github.com/Vanshgh7/Vanshgh7/blob/main/Vansh_Pipaliya_Resume.pdf)**
 
